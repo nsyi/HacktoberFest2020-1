@@ -143,3 +143,8 @@ Name: [Harsh Vijay](https://github.com/hvijaycse)<br/>
 Place: Pink City, India<br/>
 About: ML Developer<br/>
 <br/>
+
+Name: [Enes Yigit](https://github.com/nsyi)<br/>
+Place: Turkey<br/>
+About: Mechatronics Engineer<br/>
+<br/>
